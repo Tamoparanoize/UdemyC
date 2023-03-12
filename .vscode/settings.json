@@ -13,7 +13,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.bracketPairColorization.enabled": false,
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "debug.onTaskErrors": "debugAnyway",
@@ -84,7 +84,7 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
-  "workbench.startupEditor": "none",
+  "workbench.startupEditor": "welcomePage",
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor",
     "*.svg": "svgPreviewer.customEditor"

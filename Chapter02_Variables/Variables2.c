@@ -14,7 +14,7 @@ int main()
 
     // floating point number
     // float (32 bit / 4 Byte)
-    float my_balance1 = 1750.30F;
+    float my_balance1 = 1550.50F;
 
     // double (64 bit / 8 Byte)
     double my_balance2 = 1750.30;
